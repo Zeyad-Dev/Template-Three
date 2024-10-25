@@ -1075,3 +1075,12 @@ header .container .links .inner-links ul li i {
   font-size: 18px;
 }
 /* End How It Works ? */
+/* Not Completed Yet */
+.not-completed {
+}
+.not-completed .container p {
+  font-size: 25px;
+  text-align: center;
+  font-weight: bold;
+}
+/* Not Completed Yet */
